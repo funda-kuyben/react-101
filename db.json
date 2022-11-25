@@ -1,11 +1,18 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "content": "Lorem Ipsum",
-            "author": "typicode",
-            "image": "https://loremflickr.com/1234/2345/cats"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "Lorem Ipsum",
+      "author": "typicode",
+      "image": "https://loremflickr.com/1234/2345/cats"
+    },
+    {
+      "title": "React ile Web Programlama",
+      "content": "React ile web programlamaya giriş",
+      "author": "Funda Kuyben",
+      "image": "https://loremflickr.com/1234/2345/cats",
+      "id": 2
+    }
+  ]
 }
